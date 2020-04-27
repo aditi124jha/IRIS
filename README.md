@@ -1,2 +1,2 @@
 # IRIS
-Roboics club
+Robotics club
