@@ -1,2 +1,1 @@
-# IRIS
-Robotics club
+Basics of robotics
